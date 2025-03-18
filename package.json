@@ -1,0 +1,21 @@
+{
+  "name": "archeva-01-vscode-theme",
+  "displayName": "archeva-01-vscode-theme",
+  "description": "ArchEVA-01 vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ArchEVA-01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ArchEVA-01-color-theme.json"
+      }
+    ]
+  }
+}

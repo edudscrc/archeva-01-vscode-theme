@@ -106,6 +106,8 @@
 		"textLink.activeForeground": "#b6a5d8",
 
 		"editor.selectionBackground": "#3c2d43",
+
+		"panel.border": "#36293d",
 	},
 	"tokenColors": [
 		{

@@ -2,120 +2,121 @@
     "name": "ArchEVA-01",
     "colors": {
         // ========== EDITOR ==========
-        "editor.background": "#1B1823",
+        "editor.background": "#1F192B",
         "editor.foreground": "#E6E6E6",
-        "editor.lineHighlightBorder": "#262330",
+        "editor.lineHighlightBorder": "#2A233D",
         // ========== SIDEBAR ==========
         "sideBarTitle.foreground": "#E6E6E6",
-        "sideBar.background": "#12101A",
-        "sideBar.border": "#262330",
+        "sideBar.background": "#1A1525",
+        "sideBar.border": "#2A233D",
         "sideBar.foreground": "#E6E6E6",
         // ========== TITLE BAR ==========
-        "titleBar.activeBackground": "#12101A",
-        "titleBar.inactiveBackground": "#12101A",
-        "titleBar.border": "#262330",
+        "titleBar.activeBackground": "#1A1525",
+        "titleBar.inactiveBackground": "#1A1525",
+        "titleBar.border": "#2A233D",
         "titleBar.activeForeground": "#E6E6E6",
         "titleBar.inactiveForeground": "#CFCFCF",
         // ========== ACTIVITY BAR ==========
-        "activityBar.background": "#12101A",
-        "activityBar.foreground": "#E6E6E6",
+        "activityBar.background": "#1A1525",
+        "activityBar.foreground": "#875CE4",
         "activityBar.activeBorder": "#875CE4",
-        "activityBar.border": "#262330",
-        "sideBarSectionHeader.background": "#12101A",
+        "activityBar.border": "#2A233D",
+        "sideBarSectionHeader.background": "#1A1525",
         // ========== TABS ==========
-        "editorGroupHeader.tabsBackground": "#12101A",
-        "editorGroupHeader.tabsBorder": "#262330",
-        "tab.inactiveBackground": "#12101A",
-        "tab.activeBorder": "#1B1823",
+        "editorGroupHeader.tabsBackground": "#1A1525",
+        "editorGroupHeader.tabsBorder": "#2A233D",
+        "tab.inactiveBackground": "#1A1525",
+        "tab.activeBorder": "#1F192B",
         // ========== STATUS BAR ==========
-        "statusBar.background": "#7B3FCC",
-        "statusBar.noFolderBackground": "#7B3FCC",
-        "statusBar.foreground": "#1B1823",
+        "statusBar.background": "#875CE4",
+        "statusBar.noFolderBackground": "#875CE4",
+        "statusBar.foreground": "#1F192B",
         // ========== WIDGETS & TOOLBAR ==========
-        "widget.border": "#262330",
-        "editorWidget.background": "#1B1823",
-        "editorWidget.border": "#262330",
-        "editorWidget.resizeBorder": "#262330",
+        "widget.border": "#2A233D",
+        "editorWidget.background": "#1F192B",
+        "editorWidget.border": "#2A233D",
+        "editorWidget.resizeBorder": "#2A233D",
         "editorWidget.foreground": "#E6E6E6",
         "toolbar.hoverBackground": "#2F2D3C",
         // ========== ACTIVITY BAR BADGE ==========
-        "activityBarBadge.background": "#7B3FCC",
-        "activityBarBadge.foreground": "#1B1823",
+        "activityBarBadge.background": "#64DD17",
+        "activityBarBadge.foreground": "#1F192B",
         // ========== MENU ==========
-        "menu.background": "#12101A",
+        "menu.background": "#1A1525",
         "menu.foreground": "#E6E6E6",
-        "menu.border": "#262330",
+        "menu.border": "#2A233D",
         "menu.selectionBackground": "#2F2D3C",
         "menu.selectionForeground": "#E6E6E6",
         // ========== CHECKBOX ==========
-        "checkbox.background": "#12101A",
+        "checkbox.background": "#1A1525",
         "checkbox.border": "#2F2D3C",
         // ========== INPUT ==========
-        "input.background": "#12101A",
-        "input.border": "#262330",
+        "input.background": "#1A1525",
+        "input.border": "#2A233D",
         "input.foreground": "#E6E6E6",
         // ========== SCROLLBARS ==========
-        "scrollbarSlider.background": "#262330",
+        "scrollbarSlider.background": "#2A233D",
         "scrollbarSlider.hoverBackground": "#2F2D3C",
-        "scrollbarSlider.activeBackground": "#9446E5",
+        "scrollbarSlider.activeBackground": "#875CE4",
         // ========== SCM ==========
-        "scmGraph.historyItemRefColor": "#7B3FCC",
+        "scmGraph.historyItemRefColor": "#875CE4",
         // ========== QUICK INPUT ==========
         "quickInputList.focusBackground": "#2F2D3C",
         "quickInputList.focusForeground": "#E6E6E6",
         "quickInputList.focusIconForeground": "#E6E6E6",
         // ========== KEYBINDING LABEL ==========
-        "keybindingLabel.background": "#12101A",
+        "keybindingLabel.background": "#1A1525",
         "keybindingLabel.foreground": "#E6E6E6",
-        "keybindingLabel.border": "#262330",
-        "keybindingLabel.bottomBorder": "#262330",
+        "keybindingLabel.border": "#2A233D",
+        "keybindingLabel.bottomBorder": "#2A233D",
         // ========== LISTS ==========
-        "list.highlightForeground": "#9446E5",
+        "list.highlightForeground": "#875CE4",
         "list.hoverBackground": "#2F2D3C",
-        "list.activeSelectionBackground": "#9446E5",
-        "list.inactiveSelectionBackground": "#262330",
+        "list.activeSelectionBackground": "#875CE4",
+        "list.inactiveSelectionBackground": "#2A233D",
         "list.inactiveSelectionForeground": "#E6E6E6",
-        "list.activeSelectionForeground": "#1B1823",
-        "focusBorder": "#9446E5",
+        "list.activeSelectionForeground": "#1F192B",
+        "focusBorder": "#875CE4",
         // ========== RULERS / BORDERS ==========
-        "editorOverviewRuler.border": "#12101A",
-        "editorGroup.border": "#262330",
+        "editorOverviewRuler.border": "#1A1525",
+        "editorGroup.border": "#2A233D",
         // ========== INDENT GUIDES ==========
-        "editorIndentGuide.background1": "#A9A9A9",
-        "editorIndentGuide.activeBackground1": "#E6E6E6",
+        "editorIndentGuide.background1": "#443C5A",
+        "editorIndentGuide.activeBackground1": "#70658B",
         "icon.foreground": "#E6E6E6",
         // ========== LINE NUMBERS ==========
-        "editorLineNumber.foreground": "#7B3FCC",
+        "editorLineNumber.foreground": "#70658B",
         "editorLineNumber.activeForeground": "#E6E6E6",
         // ========== BUTTONS ==========
-        "button.background": "#7B3FCC",
-        "button.foreground": "#1B1823",
+        "button.background": "#64DD17",
+        "button.foreground": "#1F192B",
         // ========== LINKS ==========
-        "textLink.foreground": "#9446E5",
-        "textLink.activeForeground": "#8D55E2",
+        "textLink.foreground": "#64DD17",
+        "textLink.activeForeground": "#8AE4A2",
         // ========== SELECTION ==========
         "editor.selectionBackground": "#2F2D3C",
         // ========== PANELS ==========
-        "panel.border": "#262330",
-        // ========== TERMINAL ==========
-        "terminal.background": "#1B1823",
-        "terminal.foreground": "#E6E6E6",
-        "terminal.ansiBlack": "#1B1823",
-        "terminal.ansiRed": "#FF8C00",
-        "terminal.ansiGreen": "#FFA500",
-        "terminal.ansiYellow": "#65D070",
-        "terminal.ansiBlue": "#7B3FCC",
-        "terminal.ansiMagenta": "#E45ABF",
-        "terminal.ansiCyan": "#4EB8AC",
-        "terminal.ansiWhite": "#CBCBCB",
-        "terminal.ansiBrightBlack": "#262330",
-        "terminal.ansiBrightRed": "#FFA869",
-        "terminal.ansiBrightGreen": "#FFBD4E",
-        "terminal.ansiBrightYellow": "#8AE4A2",
-        "terminal.ansiBrightBlue": "#9C66FF",
-        "terminal.ansiBrightMagenta": "#F38BD3",
-        "terminal.ansiBrightCyan": "#70DCC2",
-        "terminal.ansiBrightWhite": "#FFFFFF"
+        "panel.border": "#2A233D",
+
+        // Terminal Colors (ANSI) - Adjusted Background
+        // "terminal.background": "#1F192B",
+        // "terminal.foreground": "#E6E6E6",
+        // "terminal.ansiBlack": "#1F192B",
+        // "terminal.ansiRed": "#FF8C00",
+        // "terminal.ansiGreen": "#FFA500",
+        // "terminal.ansiYellow": "#64DD17",
+        // "terminal.ansiBlue": "#966BF2",
+        // "terminal.ansiMagenta": "#E85DA2",
+        // "terminal.ansiCyan": "#9C66FF",
+        // "terminal.ansiWhite": "#CBCBCB",
+        // "terminal.ansiBrightBlack": "#2A233D",
+        // "terminal.ansiBrightRed": "#FFA869",
+        // "terminal.ansiBrightGreen": "#FFBD4E",
+        // "terminal.ansiBrightYellow": "#8AE4A2",
+        // "terminal.ansiBrightBlue": "#9C66FF",
+        // "terminal.ansiBrightMagenta": "#F38BD3",
+        // "terminal.ansiBrightCyan": "#70DCC2",
+        // "terminal.ansiBrightWhite": "#FFFFFF"
     },
     "tokenColors": [
         // ========== COMMENTS ==========
@@ -127,7 +128,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#5c6370"
+                "foreground": "#70658B"
             }
         },
         // ========== VARIABLES ==========
@@ -138,7 +139,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#E6E6E6"
+                "foreground": "#63BF7A"
             }
         },
         // ========== COLORS ==========
@@ -159,7 +160,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         // ========== KEYWORDS, STORAGE (GENERIC) ==========
@@ -171,7 +172,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         // ========== OPERATORS, MISC (GENERIC) ==========
@@ -191,7 +192,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         // ========== TAGS (GENERIC) ==========
@@ -217,7 +218,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -226,7 +227,7 @@
                 "meta.block variable.other"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -236,7 +237,7 @@
                 "string.other.link"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         // ========== NUMBERS, CONSTANTS, ETC. (GENERIC) ==========
@@ -269,7 +270,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         // ========== CLASSES, SUPPORT (GENERIC) ==========
@@ -295,7 +296,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -309,7 +310,7 @@
                 "source.postcss support.type.property-name"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         // ========== SUB-METHODS (GENERIC) ==========
@@ -341,7 +342,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -351,7 +352,7 @@
                 "variable.function.constructor"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         // ========== ATTRIBUTES (GENERIC) ==========
@@ -361,7 +362,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -390,7 +391,7 @@
                 "source.sass keyword.control"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         // ========== DIFF MARKERS ==========
@@ -400,7 +401,7 @@
                 "markup.inserted"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -409,7 +410,7 @@
                 "markup.deleted"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -428,7 +429,7 @@
                 "string.regexp"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -437,7 +438,7 @@
                 "constant.character.escape"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         // ========== LINKS (GENERIC) ==========
@@ -460,7 +461,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -480,7 +481,7 @@
                 "source.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -498,7 +499,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -507,7 +508,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -516,7 +517,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -525,7 +526,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -543,7 +544,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -572,7 +573,7 @@
                 "text.html.markdown markup.inline.raw.markdown"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -592,7 +593,7 @@
                 "markup.heading.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -602,7 +603,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -613,7 +614,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -628,7 +629,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -638,7 +639,7 @@
             ],
             "settings": {
                 "fontStyle": "underline",
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -665,7 +666,7 @@
                 "string.other.link.title.markdown"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -674,7 +675,7 @@
                 "string.other.link.description.title.markdown"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -692,7 +693,7 @@
                 "markup.raw.block"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -701,7 +702,7 @@
                 "markup.raw.block.fenced.markdown"
             ],
             "settings": {
-                "foreground": "#1B1823"
+                "foreground": "#1F192B"
             }
         },
         {
@@ -710,7 +711,7 @@
                 "punctuation.definition.fenced.markdown"
             ],
             "settings": {
-                "foreground": "#1B1823"
+                "foreground": "#1F192B"
             }
         },
         {
@@ -761,7 +762,7 @@
                 "storage.type.c"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -782,7 +783,7 @@
                 "meta.struct.cpp"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -792,7 +793,7 @@
                 "meta.enum.cpp"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -802,7 +803,7 @@
                 "meta.namespace.cpp"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -822,7 +823,7 @@
                 "meta.function.definition.cpp"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -832,7 +833,7 @@
                 "meta.function.call.cpp"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -842,7 +843,7 @@
                 "entity.name.operator.cpp"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -854,7 +855,7 @@
                 "entity.name.function.preprocessor.cpp"
             ],
             "settings": {
-                "foreground": "#9446E5"
+                "foreground": "#64DD17"
             }
         },
         // ========== PYTHON-SPECIFIC SCOPES ==========
@@ -875,7 +876,7 @@
                 "entity.name.function.python"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -886,7 +887,7 @@
                 "support.function.builtin.python"
             ],
             "settings": {
-                "foreground": "#65D070"
+                "foreground": "#64DD17"
             }
         },
         {
@@ -897,7 +898,7 @@
                 "support.constant.python"
             ],
             "settings": {
-                "foreground": "#4EB8AC"
+                "foreground": "#9C66FF"
             }
         },
         {
@@ -906,7 +907,7 @@
                 "support.type.exception.python"
             ],
             "settings": {
-                "foreground": "#E45ABF"
+                "foreground": "#E85DA2"
             }
         },
         {
@@ -918,7 +919,7 @@
                 "punctuation.definition.decorator.python"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {
@@ -928,7 +929,7 @@
                 "keyword.control.flow.python"
             ],
             "settings": {
-                "foreground": "#7B3FCC"
+                "foreground": "#966BF2"
             }
         },
         {

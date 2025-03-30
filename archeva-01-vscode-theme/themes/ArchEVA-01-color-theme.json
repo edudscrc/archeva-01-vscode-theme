@@ -97,8 +97,7 @@
         "editor.selectionBackground": "#2F2D3C",
         // ========== PANELS ==========
         "panel.border": "#262330",
-
-        // Terminal Colors (ANSI) - Adjusted Background
+        // ========== TERMINAL ==========
         "terminal.background": "#1B1823",
         "terminal.foreground": "#E6E6E6",
         "terminal.ansiBlack": "#1B1823",

@@ -15,7 +15,7 @@
         "titleBar.inactiveBackground": "#1A1525",
         "titleBar.border": "#2A233D",
         "titleBar.activeForeground": "#C3A5E0",
-        "titleBar.inactiveForeground": "#CFCFCF",
+        "titleBar.inactiveForeground": "#DBC9EC",
         // ========== ACTIVITY BAR ==========
         "activityBar.background": "#1A1525",
         "activityBar.foreground": "#A3FF00",

@@ -832,7 +832,8 @@
                 "meta.preprocessor.cpp",
                 "keyword.control.directive.include.cpp",
                 "keyword.control.directive.define.cpp",
-                "entity.name.function.preprocessor.cpp"
+                "entity.name.function.preprocessor.cpp",
+                "punctuation.definition.directive"
             ],
             "settings": {
                 "foreground": "#A3FF00"

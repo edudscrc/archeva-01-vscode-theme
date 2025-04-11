@@ -140,7 +140,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         // ========== KEYWORDS, STORAGE (GENERIC) ==========
@@ -152,7 +152,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         // ========== OPERATORS, MISC (GENERIC) ==========
@@ -207,7 +207,7 @@
                 "meta.block variable.other"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -217,7 +217,7 @@
                 "string.other.link"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         // ========== NUMBERS, CONSTANTS, ETC. (GENERIC) ==========
@@ -276,7 +276,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -290,7 +290,7 @@
                 "source.postcss support.type.property-name"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         // ========== SUB-METHODS (GENERIC) ==========
@@ -342,7 +342,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -390,7 +390,7 @@
                 "markup.deleted"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -461,7 +461,7 @@
                 "source.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -488,7 +488,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -506,7 +506,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -553,7 +553,7 @@
                 "text.html.markdown markup.inline.raw.markdown"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -583,7 +583,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -594,7 +594,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -609,7 +609,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -655,7 +655,7 @@
                 "string.other.link.description.title.markdown"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -673,7 +673,7 @@
                 "markup.raw.block"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -742,7 +742,7 @@
                 "storage.type.c"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -763,7 +763,7 @@
                 "meta.struct.cpp"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -773,7 +773,7 @@
                 "meta.enum.cpp"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -823,7 +823,7 @@
                 "entity.name.operator.cpp"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -888,7 +888,7 @@
                 "support.type.exception.python"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -900,7 +900,7 @@
                 "punctuation.definition.decorator.python"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {
@@ -910,7 +910,7 @@
                 "keyword.control.flow.python"
             ],
             "settings": {
-                "foreground": "#893FCB"
+                "foreground": "#9165E7"
             }
         },
         {

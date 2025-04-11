@@ -18,8 +18,8 @@
         "titleBar.inactiveForeground": "#F2F2F2",
         // ========== ACTIVITY BAR ==========
         "activityBar.background": "#1A1525",
-        "activityBar.foreground": "#4DCC90",
-        "activityBar.activeBorder": "#4DCC90",
+        "activityBar.foreground": "#A55EF0",
+        "activityBar.activeBorder": "#A55EF0",
         "activityBar.border": "#2A233D",
         "sideBarSectionHeader.background": "#1A1525",
         // ========== TABS ==========
@@ -28,8 +28,8 @@
         "tab.inactiveBackground": "#1A1525",
         "tab.activeBorder": "#1F192B",
         // ========== STATUS BAR ==========
-        "statusBar.background": "#CC81F1",
-        "statusBar.noFolderBackground": "#CC81F1",
+        "statusBar.background": "#ED45B8",
+        "statusBar.noFolderBackground": "#ED45B8",
         "statusBar.foreground": "#1F192B",
         // ========== WIDGETS & TOOLBAR ==========
         "widget.border": "#2A233D",
@@ -39,7 +39,7 @@
         "editorWidget.foreground": "#D8D8D8",
         "toolbar.hoverBackground": "#2A233D",
         // ========== ACTIVITY BAR BADGE ==========
-        "activityBarBadge.background": "#CC81F1",
+        "activityBarBadge.background": "#ED45B8",
         "activityBarBadge.foreground": "#1F192B",
         // ========== MENU ==========
         "menu.background": "#1A1525",
@@ -57,9 +57,9 @@
         // ========== SCROLLBARS ==========
         "scrollbarSlider.background": "#2A233D",
         "scrollbarSlider.hoverBackground": "#2A233D",
-        "scrollbarSlider.activeBackground": "#4DCC90",
+        "scrollbarSlider.activeBackground": "#A55EF0",
         // ========== SCM ==========
-        "scmGraph.historyItemRefColor": "#4DCC90",
+        "scmGraph.historyItemRefColor": "#A55EF0",
         // ========== QUICK INPUT ==========
         "quickInputList.focusBackground": "#2A233D",
         "quickInputList.focusForeground": "#D8D8D8",
@@ -70,13 +70,13 @@
         "keybindingLabel.border": "#2A233D",
         "keybindingLabel.bottomBorder": "#2A233D",
         // ========== LISTS ==========
-        "list.highlightForeground": "#4DCC90",
+        "list.highlightForeground": "#A55EF0",
         "list.hoverBackground": "#2A233D",
-        "list.activeSelectionBackground": "#4DCC90",
+        "list.activeSelectionBackground": "#A55EF0",
         "list.inactiveSelectionBackground": "#2A233D",
         "list.inactiveSelectionForeground": "#D8D8D8",
         "list.activeSelectionForeground": "#1A1525",
-        "focusBorder": "#4DCC90",
+        "focusBorder": "#A55EF0",
         // ========== RULERS / BORDERS ==========
         "editorOverviewRuler.border": "#1A1525",
         "editorGroup.border": "#2A233D",
@@ -88,11 +88,11 @@
         "editorLineNumber.foreground": "#70658B",
         "editorLineNumber.activeForeground": "#D8D8D8",
         // ========== BUTTONS ==========
-        "button.background": "#4DCC90",
+        "button.background": "#A55EF0",
         "button.foreground": "#1F192B",
         // ========== LINKS ==========
-        "textLink.foreground": "#4DCC90",
-        "textLink.activeForeground": "#81CEA9",
+        "textLink.foreground": "#A55EF0",
+        "textLink.activeForeground": "#B888EA",
         // ========== SELECTION ==========
         "editor.selectionBackground": "#2A233D",
         // ========== PANELS ==========

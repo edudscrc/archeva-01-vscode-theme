@@ -861,20 +861,45 @@
             }
         },
         {
-            "name": "Python Function Call / Built-in Functions",
+            "name": "Python Function Call",
             "scope": [
                 "meta.function-call.python",
-                "entity.name.function.call.python",
-                "support.function.builtin.python"
+                "entity.name.function.call.python"
             ],
             "settings": {
                 "foreground": "#8AE849"
             }
         },
         {
-            "name": "Python Built-in Types and Constants",
+            "name": "Python Function Arguments",
             "scope": [
-                "support.type.builtin.python",
+                "meta.function-call.arguments.python"
+            ],
+            "settings": {
+                "foreground": "#E77B2A"
+            }
+        },
+        {
+            "name": "Python Built-in Functions",
+            "scope": [
+                "support.function.builtin.python"
+            ],
+            "settings": {
+                "foreground": "#E77B2A"
+            }
+        },
+        {
+            "name": "Python Built-in Types",
+            "scope": [
+                "support.type.builtin.python"
+            ],
+            "settings": {
+                "foreground": "#ED45B8"
+            }
+        },
+        {
+            "name": "Python Built-in Constants (True, False, None)",
+            "scope": [
                 "constant.language.python",
                 "support.constant.python"
             ],
@@ -904,13 +929,32 @@
             }
         },
         {
-            "name": "Python Imports",
+            "name": "Python Import Keywords",
             "scope": [
-                "keyword.control.import.python",
-                "keyword.control.flow.python"
+                "keyword.control.import.python"
             ],
             "settings": {
                 "foreground": "#A55EF0"
+            }
+        },
+        {
+            "name": "Python Control Flow Keywords",
+            "scope": [
+                "keyword.control.flow.python"
+            ],
+            "settings": {
+                "foreground": "#E77B2A"
+            }
+        },
+        {
+            "name": "Python Exception Handling Keywords",
+            "scope": [
+                "keyword.control.try.python",
+                "keyword.control.exception.python",
+                "keyword.control.raise.python"
+            ],
+            "settings": {
+                "foreground": "#E77B2A"
             }
         },
         {
@@ -926,14 +970,73 @@
             }
         },
         {
+            "name": "Python Special Variables (__name__, __file__, etc.)",
+            "scope": [
+                "variable.language.special.python"
+            ],
+            "settings": {
+                "foreground": "#4DCC90"
+            }
+        },
+        {
+            "name": "Python Variables",
+            "scope": [
+                "variable.parameter.python",
+                "variable.other.readwrite.python",
+                "meta.function.parameters.python"
+            ],
+            "settings": {
+                "foreground": "#4DCC90"
+            }
+        },
+        {
+            "name": "Python Type Annotations",
+            "scope": [
+                "meta.annotation.python",
+                "storage.type.annotation.python",
+                "meta.function.parameters.annotation.python"
+            ],
+            "settings": {
+                "foreground": "#D8D8D8"
+            }
+        },
+        {
+            "name": "Python f-string Interpolation",
+            "scope": [
+                "meta.interpolation.python",
+                "punctuation.section.interpolation.begin.python",
+                "punctuation.section.interpolation.end.python"
+            ],
+            "settings": {
+                "foreground": "#F0C75E"
+            }
+        },
+        {
             "name": "Python Docstrings",
             "scope": [
                 "string.quoted.docstring.multi.python",
                 "string.quoted.docstring.single.python"
             ],
             "settings": {
-                "fontStyle": "italic",
-                "foreground": "#F2F2F2"
+                "foreground": "#ED45B8"
+            }
+        },
+        {
+            "name": "Python Comments",
+            "scope": [
+                "comment.line.number-sign.python"
+            ],
+            "settings": {
+                "foreground": "#6E687A"
+            }
+        },
+        {
+            "name": "Python Source",
+            "scope": [
+                "source.python"
+            ],
+            "settings": {
+                "foreground": "#4DCC90"
             }
         }
     ]

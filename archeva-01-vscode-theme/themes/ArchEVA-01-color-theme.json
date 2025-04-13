@@ -78,6 +78,7 @@
         "list.activeSelectionForeground": "#1A1525",
         "focusBorder": "#ED45B8",
         // ========== RULERS / BORDERS ==========
+        "editorRuler.foreground": "#2A233D",
         "editorOverviewRuler.border": "#1A1525",
         "editorGroup.border": "#2A233D",
         // ========== INDENT GUIDES ==========
